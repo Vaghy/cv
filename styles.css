@@ -1,6 +1,7 @@
 style
   body {
     background-color: #cbf1f5;
+    text-align: center;
   }
 
 hr {
@@ -13,10 +14,13 @@ width: 5%;
 
 h1 {
 color: #71c9ce;
-font-family: Lucida Console, Courier, sans-serif;}
+font-family: Lucida Console, Courier, sans-serif;
+text-align: center;}
 
 h2 {
-color: #71c9ce;}
+color: #71c9ce;
+text-align: center;}
 
 h3 {
-color: #71c9ce; }
+color: #71c9ce;
+text-align: center;}
